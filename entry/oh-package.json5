@@ -1,0 +1,9 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "HabitTimer - Habit tracking app for HarmonyOS wearables",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {}
+}

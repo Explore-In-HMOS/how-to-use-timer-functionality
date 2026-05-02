@@ -1,0 +1,52 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "HabitTimer module for tracking daily habits on wearable devices"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "HabitTimer main ability"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "HabitTimer"
+    },
+    {
+      "name": "habit_reading",
+      "value": "Reading"
+    },
+    {
+      "name": "habit_exercise",
+      "value": "Exercise"
+    },
+    {
+      "name": "habit_meditation",
+      "value": "Meditation"
+    },
+    {
+      "name": "habit_study",
+      "value": "Study"
+    },
+    {
+      "name": "habit_practice",
+      "value": "Practice"
+    },
+    {
+      "name": "permission_background_reason",
+      "value": "HabitTimer needs to run in the background to keep the timer active when you lower your wrist."
+    },
+    {
+      "name": "history_subtitle",
+      "value": "Last 7 days"
+    },
+    {
+      "name": "history_empty_title",
+      "value": "No history yet"
+    },
+    {
+      "name": "history_empty_body",
+      "value": "Complete a session\nto see it here"
+    }
+  ]
+}

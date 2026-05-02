@@ -1,0 +1,88 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#000000"
+    },
+    {
+      "name": "primary_text",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "secondary_text",
+      "value": "#B0B0B0"
+    },
+    {
+      "name": "accent_color",
+      "value": "#00D4AA"
+    },
+    {
+      "name": "background_dark",
+      "value": "#1a1a1a"
+    },
+    {
+      "name": "timer_active",
+      "value": "#00D4AA"
+    },
+    {
+      "name": "timer_paused",
+      "value": "#FFA500"
+    },
+    {
+      "name": "color_accent",
+      "value": "#00D4AA"
+    },
+    {
+      "name": "color_warning",
+      "value": "#FFA500"
+    },
+    {
+      "name": "color_text_primary",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "color_text_secondary",
+      "value": "#B0B0B0"
+    },
+    {
+      "name": "color_text_muted",
+      "value": "#888888"
+    },
+    {
+      "name": "color_text_disabled",
+      "value": "#555555"
+    },
+    {
+      "name": "color_text_hint",
+      "value": "#666666"
+    },
+    {
+      "name": "color_text_inactive",
+      "value": "#444444"
+    },
+    {
+      "name": "color_bg_page",
+      "value": "#000000"
+    },
+    {
+      "name": "color_bg_card",
+      "value": "#111111"
+    },
+    {
+      "name": "color_bg_card_secondary",
+      "value": "#1A1A1A"
+    },
+    {
+      "name": "color_bg_button",
+      "value": "#222222"
+    },
+    {
+      "name": "color_divider",
+      "value": "#333333"
+    },
+    {
+      "name": "color_dot_inactive",
+      "value": "#333333"
+    }
+  ]
+}

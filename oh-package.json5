@@ -1,0 +1,11 @@
+{
+  "modelVersion": "6.0.0",
+  "name": "habittimer",
+  "version": "1.0.0",
+  "description": "HabitTimer - A simple habit tracking app for HarmonyOS wearables",
+  "main": "",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+  }
+}

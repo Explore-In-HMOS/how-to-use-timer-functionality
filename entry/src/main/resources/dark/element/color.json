@@ -1,0 +1,32 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#000000"
+    },
+    {
+      "name": "primary_text",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "secondary_text",
+      "value": "#B0B0B0"
+    },
+    {
+      "name": "accent_color",
+      "value": "#00D4AA"
+    },
+    {
+      "name": "background_dark",
+      "value": "#1a1a1a"
+    },
+    {
+      "name": "timer_active",
+      "value": "#00D4AA"
+    },
+    {
+      "name": "timer_paused",
+      "value": "#FFA500"
+    }
+  ]
+}
